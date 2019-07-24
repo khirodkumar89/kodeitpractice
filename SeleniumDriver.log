@@ -1,23 +1,22 @@
-23/07/2019 01:32:16 PM - SeleniumDriver - INFO :: found an element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
-23/07/2019 01:32:17 PM - SeleniumDriver - INFO :: clicked on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
-23/07/2019 01:32:23 PM - SeleniumDriver - INFO :: found an element with locater :user_email and locatertype id
-23/07/2019 01:32:23 PM - SeleniumDriver - INFO :: sent keys with locater :user_email and locatertype id
-23/07/2019 01:32:23 PM - SeleniumDriver - INFO :: found an element with locater :user_password and locatertype id
-23/07/2019 01:32:23 PM - SeleniumDriver - INFO :: sent keys with locater :user_password and locatertype id
-23/07/2019 01:32:23 PM - SeleniumDriver - INFO :: found an element with locater ://input[@name='commit'] and locatertype xpath
-23/07/2019 01:32:27 PM - SeleniumDriver - INFO :: clicked on the element with locater ://input[@name='commit'] and locatertype xpath
-23/07/2019 01:32:27 PM - SeleniumDriver - INFO :: found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
-23/07/2019 01:32:27 PM - SeleniumDriver - INFO :: found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: element not found with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: cann't click on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: found an element with locater :user_email and locatertype id
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: sent keys with locater :user_email and locatertype id
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: found an element with locater :user_password and locatertype id
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: sent keys with locater :user_password and locatertype id
-23/07/2019 01:32:47 PM - SeleniumDriver - INFO :: found an element with locater ://input[@name='commit'] and locatertype xpath
-23/07/2019 01:32:52 PM - SeleniumDriver - INFO :: clicked on the element with locater ://input[@name='commit'] and locatertype xpath
-23/07/2019 01:32:52 PM - SeleniumDriver - INFO :: found an element with locater ://img[@class='gravatar'] and locatertype xpath
-23/07/2019 01:32:52 PM - SeleniumDriver - INFO :: clicked on the element with locater ://img[@class='gravatar'] and locatertype xpath
-23/07/2019 01:32:56 PM - SeleniumDriver - INFO :: found an element with locater ://a[@href='/sign_out'] and locatertype xpath
-23/07/2019 01:32:59 PM - SeleniumDriver - INFO :: clicked on the element with locater ://a[@href='/sign_out'] and locatertype xpath
-23/07/2019 01:33:12 PM - SeleniumDriver - INFO :: found an element with locater ://a[@href='/sign_out'] and locatertype xpath
+24/07/2019 01:07:01 PM - SeleniumDriver - INFO :: found an element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+24/07/2019 01:07:01 PM - SeleniumDriver - INFO :: clicked on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+24/07/2019 01:07:07 PM - SeleniumDriver - INFO :: found an element with locater :user_email and locatertype id
+24/07/2019 01:07:07 PM - SeleniumDriver - INFO :: sent keys with locater :user_email and locatertype id
+24/07/2019 01:07:07 PM - SeleniumDriver - INFO :: found an element with locater :user_password and locatertype id
+24/07/2019 01:07:07 PM - SeleniumDriver - INFO :: sent keys with locater :user_password and locatertype id
+24/07/2019 01:07:07 PM - SeleniumDriver - INFO :: found an element with locater ://input[@name='commit'] and locatertype xpath
+24/07/2019 01:07:10 PM - SeleniumDriver - INFO :: clicked on the element with locater ://input[@name='commit'] and locatertype xpath
+24/07/2019 01:07:10 PM - SeleniumDriver - INFO :: found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
+24/07/2019 01:07:10 PM - SeleniumDriver - INFO :: found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: element not found with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: cann't click on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: found an element with locater :user_email and locatertype id
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: sent keys with locater :user_email and locatertype id
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: found an element with locater :user_password and locatertype id
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: sent keys with locater :user_password and locatertype id
+24/07/2019 01:07:30 PM - SeleniumDriver - INFO :: found an element with locater ://input[@name='commit'] and locatertype xpath
+24/07/2019 01:07:34 PM - SeleniumDriver - INFO :: clicked on the element with locater ://input[@name='commit'] and locatertype xpath
+24/07/2019 01:07:34 PM - SeleniumDriver - INFO :: found an element with locater ://img[@class='gravatar'] and locatertype xpath
+24/07/2019 01:07:34 PM - SeleniumDriver - INFO :: clicked on the element with locater ://img[@class='gravatar'] and locatertype xpath
+24/07/2019 01:07:42 PM - SeleniumDriver - INFO :: found an element with locater ://a[@href='/sign_out'] and locatertype xpath
+24/07/2019 01:07:42 PM - SeleniumDriver - INFO :: found an element with locater ://a[@href='/sign_out'] and locatertype xpath

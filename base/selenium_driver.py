@@ -8,6 +8,10 @@ class SeleniumDriver():
     log = cl.Customlogger(logging.DEBUG)
     def __init__(self, driver):
         self.driver = driver
+
+    def getTitle(self):
+        return self.driver.title
+
     def getBytype(self, locatertype):
         locatertype = locatertype.lower()
         if locatertype == "id":

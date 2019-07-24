@@ -45,7 +45,7 @@ class LoginPage(SeleniumDriver):
     def logout(self):
         self.clickusericon()
         time.sleep(4)
-        self.clicklogoutlink()
+        # self.clicklogoutlink()
         time.sleep(4)
     def verifyloginsuccessful(self):
         result = self.isElementpresent("//a[@href='/sign_out']", locatertype="xpath")
@@ -53,3 +53,8 @@ class LoginPage(SeleniumDriver):
     def verifyloginfailed(self):
         result = self.isElementpresent("//div[contains(text(),'Invalid email or password.')]", locatertype="xpath")
         return result
+    def verifyTitle(self):
+        if "google" in self.getTitle():
+            return True
+        else:
+            return False
