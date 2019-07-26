@@ -11,7 +11,7 @@ class LoginPage(SeleniumDriver):
     _password_field = "user_password"
     _login_button = "//input[@name='commit']"
     _user_icon = "//img[@class='gravatar']"
-    _logout_link = "//a[@href='/sign_out']"
+    _logout_link = "//a[@href='/current_user/contact']"
     # def getloginlink(self):
     #     return self.driver.find_element(By.XPATH, self._login_link)
     # def getemailfield(self):
@@ -45,7 +45,7 @@ class LoginPage(SeleniumDriver):
     def logout(self):
         self.clickusericon()
         time.sleep(4)
-        # self.clicklogoutlink()
+        self.clicklogoutlink()
         time.sleep(4)
     def verifyloginsuccessful(self):
         result = self.isElementpresent("//a[@href='/sign_out']", locatertype="xpath")
@@ -54,7 +54,7 @@ class LoginPage(SeleniumDriver):
         result = self.isElementpresent("//div[contains(text(),'Invalid email or password.')]", locatertype="xpath")
         return result
     def verifyTitle(self):
-        if "google" in self.getTitle():
+        if "Let's Kode It" in self.getTitle():
             return True
         else:
             return False

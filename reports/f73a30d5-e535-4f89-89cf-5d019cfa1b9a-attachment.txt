@@ -1,0 +1,17 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:57 element not found with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:66 cann't click on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 sent keys with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 sent keys with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 clicked on the element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://img[@class='gravatar'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 clicked on the element with locater ://img[@class='gravatar'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://a[@href='/current_user/contact'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 clicked on the element with locater ://a[@href='/current_user/contact'] and locatertype xpath
+[32mINFO    [0m TestStatus:teststatus.py:16 ## verification successful title not correct
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:57 element not found with locater ://a[@href='/sign_out'] and locatertype xpath
+[32mINFO    [0m TestStatus:teststatus.py:19 ## verification failed login succussful
+[32mINFO    [0m TestStatus:selenium_driver.py:25 screenshot saved to directory C:\Users\khirod\PycharmProjects\kodeitpractice\base\../screenshots/login succussful . 1564129299823 .png 
+[1m[31mERROR   [0m TestStatus:teststatus.py:36 ### test failed

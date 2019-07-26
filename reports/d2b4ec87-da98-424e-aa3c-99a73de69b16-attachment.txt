@@ -1,0 +1,10 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 clicked on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 sent keys with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 sent keys with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 clicked on the element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:55 found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:83 found an element with locater ://div[contains(text(),'Invalid email or password.')] and locatertype xpath
