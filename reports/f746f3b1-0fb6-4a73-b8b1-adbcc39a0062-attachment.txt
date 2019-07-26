@@ -1,0 +1,15 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:39 element not found with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:48 cann't click on the element with locater ://a[@class='navbar-link fedora-navbar-link'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:37 found an element with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:56 sent keys with locater :user_email and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:37 found an element with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:56 sent keys with locater :user_password and locatertype id
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:37 found an element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:46 clicked on the element with locater ://input[@name='commit'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:37 found an element with locater ://img[@class='gravatar'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:46 clicked on the element with locater ://img[@class='gravatar'] and locatertype xpath
+[32mINFO    [0m TestStatus:teststatus.py:19 ## verification failed title not correct
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:37 found an element with locater ://a[@href='/sign_out'] and locatertype xpath
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:65 found an element with locater ://a[@href='/sign_out'] and locatertype xpath
+[32mINFO    [0m TestStatus:teststatus.py:16 ## verification successful login succussful
+[1m[31mERROR   [0m TestStatus:teststatus.py:33 ### test failed

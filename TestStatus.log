@@ -1,3 +1,4 @@
-24/07/2019 01:07:42 PM - TestStatus - INFO :: ## verification failed title not correct
-24/07/2019 01:07:42 PM - TestStatus - INFO :: ## verification successful login succussful
-24/07/2019 01:07:42 PM - TestStatus - ERROR :: ### test failed
+26/07/2019 09:52:02 AM - TestStatus - INFO :: ## verification failed title not correct
+26/07/2019 09:52:03 AM - TestStatus - INFO :: screenshot saved to directory C:\Users\khirod\PycharmProjects\kodeitpractice\base\../screenshots/title not correct . 1564114922920 .png 
+26/07/2019 09:52:03 AM - TestStatus - INFO :: ## verification successful login succussful
+26/07/2019 09:52:03 AM - TestStatus - ERROR :: ### test failed

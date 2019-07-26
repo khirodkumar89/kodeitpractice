@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b81b41c4-06f6-40e0-aae8-d7be5ca8fd60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilitis/teststatus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumDriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStatus.log" beforeDir="false" afterPath="$PROJECT_DIR$/TestStatus.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/home/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilitis/teststatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilitis/teststatus.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="179">
+              <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -47,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/tests/home/login_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -58,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilitis/teststatus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            <state relative-caret-position="131">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -67,22 +64,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilitis/customlogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/[FreeTutorials.Us]  Udemy - selenium-webdriver-with-python3/29 Automation Framework - Part 3/176 3-teststatus.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901" />
           </provider>
         </entry>
       </file>
@@ -106,10 +96,10 @@
         <option value="$PROJECT_DIR$/../kodingzone/test/home/login_test.py" />
         <option value="$PROJECT_DIR$/tests/conftest.py" />
         <option value="$PROJECT_DIR$/base/webdriverfactory.py" />
-        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/pages/home/login_page.py" />
-        <option value="$PROJECT_DIR$/utilitis/teststatus.py" />
         <option value="$PROJECT_DIR$/tests/home/login_test.py" />
+        <option value="$PROJECT_DIR$/utilitis/teststatus.py" />
+        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
       </list>
     </option>
   </component>
@@ -125,23 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kodeitpractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodeitpractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodeitpractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodeitpractice" type="462c0819:PsiDirectoryNode" />
-              <item name="utilitis" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,14 +152,21 @@
       <option name="presentableId" value="Default" />
       <updated>1563856887905</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1563954003117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563954003117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.32956153" />
@@ -222,7 +204,8 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../kodingzone/base/seleniumdriver.py">
@@ -278,28 +261,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://D:/[FreeTutorials.Us]  Udemy - selenium-webdriver-with-python3/29 Automation Framework - Part 3/175 2-teststatus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-469" />
+      </provider>
+    </entry>
+    <entry file="file://D:/[FreeTutorials.Us]  Udemy - selenium-webdriver-with-python3/29 Automation Framework - Part 3/176 3-teststatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumDriver.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/geckodriver.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestStatus.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://D:/[FreeTutorials.Us]  Udemy - selenium-webdriver-with-python3/29 Automation Framework - Part 3/175 2-teststatus.py">
+    <entry file="file://$PROJECT_DIR$/utilitis/customlogger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-469" />
+        <state relative-caret-position="96">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/title not correct . 1564114759558 .png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilitis/teststatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/home/login_page.py">
@@ -312,37 +311,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilitis/teststatus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/home/login_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/[FreeTutorials.Us]  Udemy - selenium-webdriver-with-python3/29 Automation Framework - Part 3/176 3-teststatus.py">
+    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilitis/customlogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="179">
+          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>

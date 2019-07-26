@@ -17,15 +17,18 @@ class TestStatus(SeleniumDriver):
                 else:
                     self.resultlist.append("FAIL")
                     self.log.info("## verification failed " + resultmessage)
+                    self.screenshot(resultmessage)
             else:
                 self.resultlist.append("FAIL")
                 self.log.info("## verification failed " +resultmessage)
+                self.screenshot(resultmessage)
         except:
             self.resultlist.append("FAIL")
             self.log.error("## exception occured")
+            self.screenshot(resultmessage)
+
     def mark(self, result, resultmessage):
         self.setresult(result, resultmessage)
-
 
     def markfinal(self,testname, result, resultmessage):
         self.setresult(result, resultmessage)

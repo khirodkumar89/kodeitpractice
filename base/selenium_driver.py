@@ -4,10 +4,28 @@ from selenium.common.exceptions import *
 import utilitis.customlogger as cl
 import logging
 from selenium.webdriver.common.by import By
+import os
+import time
 class SeleniumDriver():
     log = cl.Customlogger(logging.DEBUG)
     def __init__(self, driver):
         self.driver = driver
+
+    def screenshot(self, resultmessage):
+        filename = resultmessage + " . " + str(round(time.time() * 1000)) + ' .png '
+        screenshotdirectory = "../screenshots/"
+        relativedirectory = screenshotdirectory + filename
+        currentdirectory = os.path.dirname(__file__)
+        destinationfile = os.path.join(currentdirectory, relativedirectory)
+        destinationdirectory = os.path.join(currentdirectory, screenshotdirectory)
+        try:
+            if not os.path.exists(destinationdirectory):
+                os.mkdir(destinationdirectory)
+            self.driver.save_screenshot(destinationfile)
+            self.log.info("screenshot saved to directory " + destinationfile)
+        except:
+            self.log.error("#########exception occured")
+
 
     def getTitle(self):
         return self.driver.title
