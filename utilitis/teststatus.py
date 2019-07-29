@@ -30,7 +30,7 @@ class TestStatus(SeleniumDriver):
     def mark(self, result, resultmessage):
         self.setresult(result, resultmessage)
 
-    def markfinal(self,testname, result, resultmessage):
+    def markfinal(self, testname, result, resultmessage):
         self.setresult(result, resultmessage)
         if 'FAIL' in self.resultlist:
             self.log.error("### test failed")

@@ -1,4 +1,4 @@
-26/07/2019 01:51:19 PM - TestStatus - INFO :: ## verification successful title not correct
-26/07/2019 01:51:39 PM - TestStatus - INFO :: ## verification failed login succussful
-26/07/2019 01:51:40 PM - TestStatus - INFO :: screenshot saved to directory C:\Users\khirod\PycharmProjects\kodeitpractice\base\../screenshots/login succussful . 1564129299823 .png 
-26/07/2019 01:51:40 PM - TestStatus - ERROR :: ### test failed
+29/07/2019 03:18:32 PM - TestStatus - INFO :: ## verification successful title not correct
+29/07/2019 03:18:53 PM - TestStatus - INFO :: ## verification failed login succussful
+29/07/2019 03:18:53 PM - TestStatus - INFO :: screenshot saved to directory C:\Users\khirod\PycharmProjects\kodeitpractice\base\../screenshots/login succussful . 1564393733003 .png 
+29/07/2019 03:18:53 PM - TestStatus - ERROR :: ### test failed
